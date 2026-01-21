@@ -52,21 +52,21 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 
 ### 📊 Investment Insights Assistant (RAG-based)
 A FastAPI chatbot for investment research that retrieves and synthesizes insights from market data, news, and SEC filings in near real time.  
-**Tech:** Python, FastAPI, OpenAI Embeddings, FAISS, AWS  
+**Tech:** Python (Pandas, NumPy), FastAPI, OpenAI Embeddings, FAISS, RAG, Streamlit  
 🔗 [Repository](https://github.com/harshit711/Investment-Insights-Chatbot-using-RAG)
 
 ---
 
 ### 🤖 Binary Reasoning using LLMs
 A benchmarking framework to evaluate GPT-based models on binary decision-making accuracy and question effectiveness.  
-**Tech:** Python, OpenAI Async API, Typer CLI, Matplotlib  
+**Tech:** Python (Matplotlib), OpenAI Async API, Typer CLI, JSONL  
 🔗 [Repository](https://github.com/harshit711/Guess-Who-LLM)
 
 ---
 
 ### 🧩 APS Fault Detection System
-An end-to-end ML system for fault detection, improving prediction accuracy over traditional baselines and deployed on AWS.  
-**Tech:** Python, XGBoost, MongoDB, Docker, AWS  
+An end-to-end ML system (with separate training and testing pipelines) for fault detection, improving prediction accuracy over traditional baselines and deployed on AWS.  
+**Tech:** Python (Pandas, Numpy, MatplotLib, Scikit-Learn), XGBoost, MongoDB, Docker, AWS (S3, EC2, ECR), GitActions, Fast API
 🔗 [Repository](https://github.com/harshit711/APS-Fault-Detection)
 
 ---
