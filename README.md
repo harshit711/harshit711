@@ -41,10 +41,10 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 ---
 
 ## 🚀 Current Focus
-- Building **LLM-powered applications** using RAG, FAISS, and FastAPI  
-- Strengthening **ML pipelines and MLOps workflows**  
-- Designing **ETL/ELT pipelines and BI dashboards** for decision support  
-- Open to collaboration on **data science, analytics, and applied ML projects**
+- Building **end-to-end, production-oriented projects** using **LLMs, RAG, and vector search**, with emphasis on retrieval quality, latency, and evaluation  
+- Developing **scalable ETL and data pipelines** that support both **batch and real-time analytics**  
+- Applying **machine learning models** within complete workflows, from data preparation to deployment and monitoring  
+- Open to collaborating on **data-driven products** that require strong ownership across analytics, engineering, and modeling
 
 ---
 
