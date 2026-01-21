@@ -52,7 +52,7 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 
 ### 📊 Investment Insights Assistant (RAG-based)
 An end-to-end FastAPI chatbot for investment research that retrieves, ranks, and synthesizes insights from market data, news, and SEC filings in near real time.  
-**Highlights:** semantic retrieval under 100ms, end-to-end response under 5s  
+**Highlights:** Semantic Retrieval under 100ms, End-to-end response under 5s  
 **Tech:** Python (Pandas, NumPy), FastAPI, OpenAI Embeddings, FAISS, RAG, Streamlit  
 🔗 [Repository](https://github.com/harshit711/Investment-Insights-Chatbot-using-RAG)
 
@@ -60,7 +60,7 @@ An end-to-end FastAPI chatbot for investment research that retrieves, ranks, and
 
 ### 🤖 Binary Reasoning using LLMs
 A benchmarking framework to evaluate LLM reasoning quality using binary decision accuracy, question effectiveness, and survivor reduction dynamics across 500+ inputs.  
-**Highlights:** structured JSONL logging, comparative plots, multi-model evaluation  
+**Highlights:** Structured JSONL Logging, Comparative Plots, Multi-model Evaluation  
 **Tech:** Python (Matplotlib), OpenAI Async API, Typer CLI, JSONL  
 🔗 [Repository](https://github.com/harshit711/Guess-Who-LLM)
 
@@ -68,13 +68,13 @@ A benchmarking framework to evaluate LLM reasoning quality using binary decision
 
 ### 🧩 APS Fault Detection System
 An end-to-end ML system with separate training and inference pipelines for industrial fault detection, improving accuracy over traditional baselines and deployed on AWS.  
-**Highlights:** feature engineering, model comparison, containerized deployment  
+**Highlights:** Feature Engineering, Machine Learning Model Comparison, Containerized Deployment  
 **Tech:** Python, XGBoost, MongoDB, Docker, AWS (S3, EC2, ECR), GitHub Actions, FastAPI  
 🔗 [Repository](https://github.com/harshit711/APS-Fault-Detection)
 
 ---
 
-## 📈 GitHub Snapshot (Non-Commit Focused)
+## 📈 GitHub Snapshot
 
 ### 📌 Profile Overview
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit711&theme=default)
