@@ -64,8 +64,8 @@ An end-to-end ML pipeline for fault detection with data ingestion, modeling, and
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit711&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit711&layout=compact&theme=default)
 
 ---
 
