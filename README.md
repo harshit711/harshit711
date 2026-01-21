@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋, I'm Harshit
 
 ## 👨‍💻 About Me
@@ -81,4 +80,3 @@ An end-to-end ML pipeline for fault detection with data ingestion, modeling, and
 ---
 
 ⭐ *If you find my work interesting, feel free to explore my repositories or reach out—always happy to connect and collaborate.*
-```
