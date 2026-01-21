@@ -50,8 +50,6 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 
 ## ⭐ Selected End-to-End Projects
 
-> Projects below are fully scoped from **data ingestion → modeling → evaluation → deployment**.
-
 ### 📊 Investment Insights Assistant (RAG-based)
 An end-to-end FastAPI chatbot for investment research that retrieves, ranks, and synthesizes insights from market data, news, and SEC filings in near real time.  
 **Highlights:** semantic retrieval under 100ms, end-to-end response under 5s  
