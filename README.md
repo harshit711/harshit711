@@ -1,63 +1,70 @@
-# Hi there 👋, I'm Harshit
+# Hi there 👋, I'm Harshit Kumar Taneja
 
 ## 👨‍💻 About Me
-I'm a **Data Scientist and Analytics Engineer** with a strong foundation in **machine learning, data engineering, and analytics**, currently pursuing my **MS in Data Science**. I enjoy building end-to-end, data-driven solutions—from ETL pipelines and dashboards to ML models and LLM-powered applications—that translate complex data into actionable business insights. I'm especially interested in applied machine learning, scalable data systems, and real-world decision support tools.
+I’m a **Data Scientist and Analytics Engineer** currently pursuing an **MS in Data Science** at Northeastern University. I specialize in building end-to-end, data-driven systems—from ETL pipelines and BI dashboards to machine learning models and LLM-powered applications. My work focuses on turning complex data into reliable insights that support real-world decision-making, with strong interests in applied ML, data engineering, and scalable analytics systems.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming & Data
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-### Data Science & ML
+### Data Science, LLMs & Search
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-### Data Engineering & Systems
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-GPTs%20%7C%20RAG-000000?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### Visualization & BI
+### Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### Development, Deployment & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Lambda-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Current Focus
-- Building **LLM-powered applications** using RAG, vector search, and FastAPI  
-- Strengthening skills in **machine learning systems and MLOps**  
-- Designing **analytics dashboards and ETL pipelines** for real-world datasets  
-- Open to collaborating on **data science, ML, and analytics projects**
+- Building **LLM-powered applications** using RAG, FAISS, and FastAPI  
+- Strengthening **ML pipelines and MLOps workflows**  
+- Designing **ETL/ELT pipelines and BI dashboards** for decision support  
+- Open to collaboration on **data science, analytics, and applied ML projects**
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 📊 Investment Insights Assistant (RAG-based)
-A FastAPI-powered chatbot that analyzes market data, news, and filings to generate real-time investment insights.  
+A FastAPI chatbot for investment research that retrieves and synthesizes insights from market data, news, and SEC filings in near real time.  
 **Tech:** Python, FastAPI, OpenAI Embeddings, FAISS, AWS  
 🔗 [Repository](https://github.com/your-username/investment-insights-assistant)
 
 ---
 
 ### 🤖 Binary Reasoning using LLMs
-An experimental framework to evaluate stepwise reasoning accuracy and question optimality in GPT-based models.  
-**Tech:** Python, OpenAI API, Typer CLI, Matplotlib  
+A benchmarking framework to evaluate GPT-based models on binary decision-making accuracy and question effectiveness.  
+**Tech:** Python, OpenAI Async API, Typer CLI, Matplotlib  
 🔗 [Repository](https://github.com/your-username/binary-reasoning-llm)
 
 ---
 
 ### 🧩 APS Fault Detection System
-An end-to-end ML pipeline for fault detection with data ingestion, modeling, and deployment.  
-**Tech:** Python, Scikit-learn, MongoDB, Docker, AWS  
+An end-to-end ML system for fault detection, improving prediction accuracy over traditional baselines and deployed on AWS.  
+**Tech:** Python, XGBoost, MongoDB, Docker, AWS  
 🔗 [Repository](https://github.com/your-username/aps-fault-detection)
 
 ---
@@ -72,11 +79,14 @@ An end-to-end ML pipeline for fault detection with data ingestion, modeling, and
 ## 🤝 Connect with Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-(https://www.linkedin.com/in/harshit-kumar-taneja)
+(https://www.linkedin.com/in/harshit-kumar-taneja/)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+(https://github.com/harshit711)
 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
 (mailto:harshittaneja711@gmail.com)
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore my repositories or reach out—always happy to connect and collaborate.*
+⭐ *Always happy to connect, collaborate, and build data-driven solutions with real-world impact.*
