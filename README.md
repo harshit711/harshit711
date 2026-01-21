@@ -49,7 +49,6 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 ---
 
 ## ⭐ Selected End-to-End Projects
-> Highlighted projects demonstrating ownership from **problem formulation to deployment**.
 
 ### 📊 Investment Insights Assistant (RAG-based)
 An end-to-end FastAPI chatbot for investment research that retrieves, ranks, and synthesizes insights from market data, news, and SEC filings in near real time.  
@@ -69,7 +68,7 @@ A benchmarking framework to evaluate LLM reasoning quality using binary decision
 
 ### 🧩 APS Fault Detection System
 An end-to-end ML system with separate training and inference pipelines for industrial fault detection, deployed on AWS.  
-**Key Signals:** Feature engineering, model comparison, containerized deployment  
+**Key Signals:** Feature engineering, ML Models comparison, containerized deployment  
 **Tech:** Python, XGBoost, MongoDB, Docker, AWS (S3, EC2, ECR), GitHub Actions, FastAPI  
 🔗 https://github.com/harshit711/APS-Fault-Detection
 
