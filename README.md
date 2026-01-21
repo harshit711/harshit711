@@ -51,21 +51,21 @@ I’m a **Data Scientist** currently pursuing an **MS in Data Science** at Khour
 ### 📊 Investment Insights Assistant (RAG-based)
 A FastAPI chatbot for investment research that retrieves and synthesizes insights from market data, news, and SEC filings in near real time.  
 **Tech:** Python, FastAPI, OpenAI Embeddings, FAISS, AWS  
-🔗 [Repository](https://github.com/your-username/investment-insights-assistant)
+🔗 [Repository](https://github.com/harshit711/Investment-Insights-Chatbot-using-RAG)
 
 ---
 
 ### 🤖 Binary Reasoning using LLMs
 A benchmarking framework to evaluate GPT-based models on binary decision-making accuracy and question effectiveness.  
 **Tech:** Python, OpenAI Async API, Typer CLI, Matplotlib  
-🔗 [Repository](https://github.com/your-username/binary-reasoning-llm)
+🔗 [Repository](https://github.com/harshit711/Guess-Who-LLM)
 
 ---
 
 ### 🧩 APS Fault Detection System
 An end-to-end ML system for fault detection, improving prediction accuracy over traditional baselines and deployed on AWS.  
 **Tech:** Python, XGBoost, MongoDB, Docker, AWS  
-🔗 [Repository](https://github.com/your-username/aps-fault-detection)
+🔗 [Repository](https://github.com/harshit711/APS-Fault-Detection)
 
 ---
 
