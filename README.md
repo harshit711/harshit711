@@ -71,7 +71,6 @@ An end-to-end ML system for fault detection, improving prediction accuracy over 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit711&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit711&layout=compact&theme=default)
 
 ---
