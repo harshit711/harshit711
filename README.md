@@ -79,7 +79,6 @@ An end-to-end ML system (with separate training and testing pipelines) for fault
 ### 🧠 Languages & Tech Usage
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit711&layout=compact&hide_border=true&theme=default)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit711&theme=default)
-![Languages by Commit Size](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshit711&theme=default)
 
 ### 📁 Repository & Contribution Footprint
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit711&theme=default)
