@@ -83,7 +83,7 @@ An end-to-end ML system for fault detection, improving prediction accuracy over 
 
 ### 📁 Repository & Contribution Footprint
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit711&theme=default)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshit711&theme=default&utcOffset=-5)
+
 ---
 
 ## 🤝 Connect with Me
