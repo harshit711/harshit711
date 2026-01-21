@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Harshit Kumar Taneja
 
 ## 👨‍💻 About Me
-I’m a **Data Scientist and Analytics Engineer** currently pursuing an **MS in Data Science** at Northeastern University. I specialize in building end-to-end, data-driven systems—from ETL pipelines and BI dashboards to machine learning models and LLM-powered applications. My work focuses on turning complex data into reliable insights that support real-world decision-making, with strong interests in applied ML, data engineering, and scalable analytics systems.
+I’m a **Data Scientist** currently pursuing an **MS in Data Science** at Khoury College of Computer Sciences at Northeastern University, Boston. I specialize in building end-to-end, data-driven systems—from ETL pipelines and BI dashboards to machine learning models and LLM-powered applications. My work focuses on turning complex data into reliable insights that support real-world decision-making, with strong interests in applied ML, data engineering, and scalable analytics systems.
 
 ---
 
