@@ -42,46 +42,51 @@ I focus on converting **complex, high-volume data** into reliable insights and s
 
 ## 🚀 Current Focus
 - Building **end-to-end, production-oriented projects** using **LLMs, RAG, and vector search**, with emphasis on retrieval quality, latency, and evaluation  
-- Developing **scalable ETL and data pipelines** that support both **batch and real-time analytics**  
+- Developing **scalable ETL and data pipelines** supporting both **batch and real-time analytics**  
 - Applying **machine learning models** within complete workflows, from data preparation to deployment and monitoring  
-- Open to collaborating on **data-driven products** that require strong ownership across analytics, engineering, and modeling
+- Open to collaborating on **data-driven products** requiring strong ownership across analytics, engineering, and modeling  
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Selected End-to-End Projects
+
+> Projects below are fully scoped from **data ingestion → modeling → evaluation → deployment**.
 
 ### 📊 Investment Insights Assistant (RAG-based)
-A FastAPI chatbot for investment research that retrieves and synthesizes insights from market data, news, and SEC filings in near real time.  
+An end-to-end FastAPI chatbot for investment research that retrieves, ranks, and synthesizes insights from market data, news, and SEC filings in near real time.  
+**Highlights:** semantic retrieval under 100ms, end-to-end response under 5s  
 **Tech:** Python (Pandas, NumPy), FastAPI, OpenAI Embeddings, FAISS, RAG, Streamlit  
 🔗 [Repository](https://github.com/harshit711/Investment-Insights-Chatbot-using-RAG)
 
 ---
 
 ### 🤖 Binary Reasoning using LLMs
-A benchmarking framework to evaluate GPT-based models on binary decision-making accuracy and question effectiveness.  
+A benchmarking framework to evaluate LLM reasoning quality using binary decision accuracy, question effectiveness, and survivor reduction dynamics across 500+ inputs.  
+**Highlights:** structured JSONL logging, comparative plots, multi-model evaluation  
 **Tech:** Python (Matplotlib), OpenAI Async API, Typer CLI, JSONL  
 🔗 [Repository](https://github.com/harshit711/Guess-Who-LLM)
 
 ---
 
 ### 🧩 APS Fault Detection System
-An end-to-end ML system (with separate training and testing pipelines) for fault detection, improving prediction accuracy over traditional baselines and deployed on AWS.  
-**Tech:** Python (Pandas, Numpy, MatplotLib, Scikit-Learn), XGBoost, MongoDB, Docker, AWS (S3, EC2, ECR), GitActions, Fast API
+An end-to-end ML system with separate training and inference pipelines for industrial fault detection, improving accuracy over traditional baselines and deployed on AWS.  
+**Highlights:** feature engineering, model comparison, containerized deployment  
+**Tech:** Python, XGBoost, MongoDB, Docker, AWS (S3, EC2, ECR), GitHub Actions, FastAPI  
 🔗 [Repository](https://github.com/harshit711/APS-Fault-Detection)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Snapshot (Non-Commit Focused)
 
 ### 📌 Profile Overview
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit711&theme=default)
 
-### 🧠 Languages & Tech Usage
+### 🧠 Language & Repository Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit711&layout=compact&hide_border=true&theme=default)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit711&theme=default)
 
-### 📁 Repository & Contribution Footprint
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit711&theme=default)
+### 📁 Repository Footprint
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit711&theme=default)
 
 ---
 
@@ -98,4 +103,4 @@ An end-to-end ML system (with separate training and testing pipelines) for fault
 
 ---
 
-⭐ *Always happy to connect, collaborate, and build data-driven solutions with real-world impact.*
+⭐ *Focused on building reliable, end-to-end data systems with measurable real-world impact.*
