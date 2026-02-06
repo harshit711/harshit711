@@ -96,7 +96,7 @@ An end-to-end ML system with separate training and inference pipelines for indus
 (https://github.com/harshit711)
 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)
-(mailto:harshittaneja711@gmail.com)
+(mailto:harshittaneja723@gmail.com)
 
 ---
 
